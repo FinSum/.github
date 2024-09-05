@@ -1,7 +1,7 @@
 <div align="center">
     
 
-# 🗠🗽 Real-Time Investment Information Search Agent, FinSum  💵🇺🇸
+# 🗽 Real-Time Investment Information Search Agent, FinSum  💵
 
 ![image](https://github.com/cca-ffodregamdi/.github/assets/61495627/665d47b9-d19d-4234-9a6d-6e876d6312f3)
 
