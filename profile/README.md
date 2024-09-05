@@ -1,7 +1,7 @@
 <div align="center">
     
 
-# 🗠🗽 FinSum : 미국 주식 뉴스 요약 💵🇺🇸
+# 🗠🗽 Real-Time Investment Information Search Agent, FinSum  💵🇺🇸
 
 ![image](https://github.com/cca-ffodregamdi/.github/assets/61495627/665d47b9-d19d-4234-9a6d-6e876d6312f3)
 
@@ -15,7 +15,8 @@
 <br>
 
 ## 🔻 프로젝트 소개
-> **Real-Time Investment Information Search Agent는 해외 변동 공시 및 기업 뉴스 종합 투자 정보 서비스로, 투자 담당자들의 업무 효율을 높이기 위한 플랫폼입니다. </br> 투자 담당자들의 일상적인 작업 과정과 시장 변화에 대한 신속한 대응을 분석하여, 가장 필요한 기능들을 제공하도록 설계되었습니다.**
+> **FinSum은 해외 변동 공시 및 기업 뉴스 종합 투자 정보 서비스로, 투자 담당자들의 업무 효율을 높이기 위한 플랫폼입니다. </br>
+> 투자 담당자들의 일상적인 작업 과정과 시장 변화에 대한 신속한 대응을 분석하여, 가장 필요한 기능들을 제공하도록 설계되었습니다.**
 <br>
 
 <br>
