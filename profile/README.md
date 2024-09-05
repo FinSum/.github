@@ -80,19 +80,19 @@ MZ 세대는 걷기, 스트레칭, 체중 운동, 피트니스 트레이닝 등 
 
 ## 👋 팀원 소개
 
-#### iOS
+#### AI
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/dbguswls030"><img src="https://avatars.githubusercontent.com/dbguswls030" width="150px;" alt="">
-    <td align="center"><a href="https://github.com/nasneyland"><img src="https://avatars.githubusercontent.com/nasneyland" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/shashamalone"><img src="https://avatars.githubusercontent.com/shashamalone" width="150px;" alt="">
+    <td align="center"><a href="https://github.com/jjunstone7"><img src="https://avatars.githubusercontent.com/jjunstone7" width="150px;" alt="">
   </tr>
   <tr>
-    <td align="center"><strong>유현진</strong></td>
-    <td align="center"><strong>신나진</strong></td>
+    <td align="center"><strong>김이정</strong></td>
+    <td align="center"><strong>이준석</strong></td>
   </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/dbguswls030"><b>@dbguswls030</b></td>
-    <td align="center"><a href="https://github.com/nasneyland"><b>@nasneyland</b></td>
+    <tr>
+    <td align="center"><a href="https://github.com/shashamalone"><b>@shashamalone</b></td>
+    <td align="center"><a href="https://github.com/jjunstone7"><b>@jjunstone7</b></td>
   </tr>
 </table>
 
@@ -112,6 +112,22 @@ MZ 세대는 걷기, 스트레칭, 체중 운동, 피트니스 트레이닝 등 
     <tr>
     <td align="center"><a href="https://github.com/shashamalone"><b>@shashamalone</b></td>
     <td align="center"><a href="https://github.com/jjunstone7"><b>@jjunstone7</b></td>
+  </tr>
+</table>
+
+<br/>
+
+
+#### FrontEnd
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/shashamalone"><img src="https://avatars.githubusercontent.com/shashamalone" width="150px;" alt="">
+  </tr>
+  <tr>
+    <td align="center"><strong>김이정</strong></td>
+  </tr>
+    <tr>
+    <td align="center"><a href="https://github.com/shashamalone"><b>@shashamalone</b></td>
   </tr>
 </table>
 
