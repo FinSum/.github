@@ -3,7 +3,7 @@
 
 # 🗽 Real-Time Investment Information Search Agent, FinSum  💵
 
-![image](https://github.com/cca-ffodregamdi/.github/assets/61495627/665d47b9-d19d-4234-9a6d-6e876d6312f3)
+[이미지들어갈 공간]
 
 <br>
 <br/>
@@ -134,7 +134,7 @@
 
 ## 👟 이렇게 진행해요.
 
-#### 1️⃣ [기획과 이벤트 스토밍](https://github.com/cca-ffodregamdi/running-hi-back-v2/wiki/%EA%B8%B0%ED%9A%8D%EA%B3%BC-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%8A%A4%ED%86%A0%EB%B0%8D)
+#### 1️⃣ [기획과 이벤트 스토밍](https://principled-saturnalia-c46.notion.site/1047bb948af6809da98dca73d9679bcc?pvs=4)
 
 #### 2️⃣ [컨벤션 및 깃 프로젝트 관리](https://github.com/cca-ffodregamdi/running-hi-back-v2/wiki/%EC%BB%A8%EB%B2%A4%EC%85%98-%EB%B0%8F-%EA%B9%83-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC)
 
